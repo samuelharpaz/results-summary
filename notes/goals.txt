@@ -1,0 +1,6 @@
+- use vite to scaffold ✔️
+- deploy with vercel
+- setup css variables
+- use extra layers of css variable where it's helpful
+- use media queries on css variable values
+- create utility classes for convenience
